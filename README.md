@@ -50,7 +50,7 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
 
-##  Projeto: Lista de Tarefas (To-do App)
+##  Projeto: Lista de Tarefas (Task Manager)
 
 Um aplicativo de gerenciamento de tarefas simples com as seguintes funcionalidades:
 
